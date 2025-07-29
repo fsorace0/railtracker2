@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <div>Laurel, I love you</div>
+      <div>I love you Laurel</div>
     </main>
   );
 }
